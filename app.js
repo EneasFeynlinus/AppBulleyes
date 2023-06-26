@@ -3,4 +3,10 @@ window.addEventListener('load', function () {
   const ctx = canvas.getContext('2d')
   canvas.width = 1280
   canvas.height = 720
+
+  class Player {}
+
+  class Game {}
+
+  function animate() {}
 })
